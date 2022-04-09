@@ -1,10 +1,9 @@
 💻 Tech Stack
-These are my favorite tech stack for building all kinds of stuff.
 
-- Backend - Typescript with NestJS & Fastify
-- Frontend - HTML5/CSS3, JavaScript (ES6), VueJS/Nuxt, Tailwind CSS/SASS
-- Scripting - Python3, Bash
-- Datastores - MySQL, MongoDB, Redis
-- Infrastucture - Docker, Kubernetes
-- Tools - Github, VS Code, NeoVim, Figma
+- Backend - Express.js / Node.js
+- Frontend - HTML5/CSS3, JavaScript (ES6), React, Tailwind CSS, Headless UI
+- Datastores - MySQL, MongoDB 
+- Tools - Github, VS Code, Figma, PhpStorm
+- ORM - Prisma
+- Query Builder - Knex
 - Other - Linux
