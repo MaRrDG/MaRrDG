@@ -1,7 +1,7 @@
-- Backend - Express.js / Node.js
-- Frontend - HTML5/CSS3, JavaScript (ES6), React, Tailwind CSS, Headless UI
-- Datastores - MySQL, MongoDB 
-- Tools - Git + Github/Gitlab, VS Code, Figma, PhpStorm, WebStorm
-- ORM - Prisma
-- Query Builder - Knex
-- Other - Linux
+- **Backend** - Express.js / Node.js
+- **Frontend** - HTML5/CSS3, JavaScript (ES6), React, Tailwind CSS, Headless UI
+- **Datastores** - MySQL, MongoDB 
+- **Tools** - Git + Github/Gitlab, VS Code, Figma, PhpStorm, WebStorm
+- **ORM** - Prisma
+- **Query Builder** - Knex
+- **Other** - Linux
