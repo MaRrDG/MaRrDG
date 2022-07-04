@@ -14,6 +14,8 @@
 <p><b>ORM</b> - Prisma</p>
 <p><b>Query Builder</b> - Knex</p>
 <p><b>Other</b> - Linux</p>
+<p><b>Design</b> - Photoshop, Figma</p>
+<p><b>Video Editing</b> - After Effects</p>
 </div>
 
 
