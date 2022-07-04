@@ -7,6 +7,7 @@
 <br>
 </bold>
 <h2>Stack Tree</h2>
+<h3>♥ TYPESCRIPT ♥</h3>
 <p><b>Backend</b> - Express.js / Node.js / Python ( still learning basics )</p>
 <p><b>Frontend</b> - HTML5/CSS3, JavaScript (ES6), React, Tailwind CSS, Headless UI</p> 
 <p><b>Datastores</b> - MySQL, MongoDB</p>
