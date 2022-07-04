@@ -11,9 +11,10 @@
 <p><b>Frontend</b> - HTML5/CSS3, JavaScript (ES6), React, Tailwind CSS, Headless UI</p> 
 <p><b>Datastores</b> - MySQL, MongoDB</p>
 <p><b>Tools</b> - Git + Github/Gitlab, VS Code, Figma, PhpStorm, WebStorm</p>
-<p><b>ORM</b> - Prisma</p>
+<p><b>ORM</b> - Prisma, Sequelize</p>
+<p><b>ODM</b> - Mongoose</p>
 <p><b>Query Builder</b> - Knex</p>
-<p><b>Other</b> - Linux</p>
+<p><b>Other</b> - Linux, Debian</p>
 <p><b>Design</b> - Photoshop, Figma</p>
 <p><b>Video Editing</b> - After Effects</p>
 </div>
