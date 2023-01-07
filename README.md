@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working for [IV Future](https://www.ivfuture.ro) as Web Developer
 - 📚 I’m currently learning -
-- ⭐ 2023 Goals: To lean Rust and to make a project from the list of ideas
+- ⭐ 2023 Goals: To learn Rust and to make a project from the list of ideas
 - ⚡ Fun fact: I love to take pictures
 
 ### Connect with me:
