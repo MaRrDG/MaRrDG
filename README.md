@@ -1,8 +1,8 @@
 # Hi there, I'm Mario Theodor 👋 
 
 - 🔭 I’m currently working for [IV Future](https://www.ivfuture.ro) as Web Developer
-- 📚 I’m currently learning SolidJS
-- ⭐ 2022 Goals: Learn more about UX/UI
+- 📚 I’m currently learning -
+- ⭐ 2023 Goals: To lean Rust and to make a project from the list of ideas
 - ⚡ Fun fact: I love to take pictures
 
 ### Connect with me:
@@ -24,6 +24,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Solid.js" width="26px" src="https://i.postimg.cc/26z9QxtM/79226042.png" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
