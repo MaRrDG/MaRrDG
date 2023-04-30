@@ -1,4 +1,5 @@
 # Hi there, I'm Mario Theodor 👋 
+![](https://komarev.com/ghpvc/?username=marrdg&label=VIEWS)
 
 - 🔭 I’m currently working for [IV Future](https://www.ivfuture.ro) as Web Developer
 - 📚 I’m currently learning -
