@@ -1,40 +1,30 @@
-# Hi there, I'm Mario Theodor 👋 
-![](https://komarev.com/ghpvc/?username=marrdg&label=VIEWS)
+# Hello there 👋
+I'm Mario Theodor, born in Romania, currently working for [IVFuture](https://www.ivfuture.ro/) and deeply passionate about the IT field. I embarked on my professional journey at the age of 17, driven by the desire to continuously evolve and deliver top-notch quality in everything I do. My goal is to constantly push the boundaries of my skills and knowledge to provide the best possible outcomes.
 
-- 🔭 I’m currently working for [IV Future](https://www.ivfuture.ro) as Web Developer
-- 📚 I’m currently learning -
-- ⭐ 2023 Goals: To learn Rust and to make a project from the list of ideas
-- ⚡ Fun fact: I love to take pictures
+<p align="center">
+   <a href="[https://www.instagram.com/mario.theodor03/](https://www.instagram.com/mario.theodor03/)" target="_blank">
+      <img src="https://github.com/MaRrDG/MaRrDG/blob/main/img/instagram.svg" alt="Twitter" width="32" align="center">
+   </a>
+   <a href="https://www.linkedin.com/in/mario-theodor-498624231/" target="_blank" rel="nofollow">
+      <img src="https://github.com/MaRrDG/MaRrDG/blob/main/img/linkedin.svg" alt="Linkedin" width="32" align="center">
+   </a>
+   <a href="https://mario-theodor.tech/#about" target="_blank" rel="nofollow">
+      <img src="https://github.com/MaRrDG/MaRrDG/blob/main/img/website.svg" alt="My Website" width="29" align="center">
+   </a>
+</p>
 
-### Connect with me:
+<p align="center">
+   <a href="https://discord.com/users/526768471682449418" target="_blank" rel="nofollow">
+      <img src="https://lanyard.cnrad.dev/api/526768471682449418" alt="Discord Presence" align="center">
+   </a>
+</p>
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCJxK2uoqfE4zZLvjEKl7dMw#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCJxK2uoqfE4zZLvjEKl7dMwgh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mario-theodor-498624231/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mario-theodor-498624231/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/mario.theodor03/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/mario.theodor03/#gh-dark-mode-only)
+# What im working on 👷
+- [ivfuture.ro](https://ivfuture.ro/) - IVFuture’s mission is to transform common businesses, communities and people’s needs into intelligent and innovative software solutions, to simplify life through scalable technology.
+- An npm package that will change the way you can generate seed data for your database!
+- Occasionally I work on projects as a freelancer, at the moment I will not make public what projects I have worked on.
 
-### Languages and Tools:
+# Tech stack 💻
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bots,electron,express,github,js,mysql,nodejs,postgres,sequelize,ts,vercel,vite,vscode,postman,firebase,nextjs,python,solidjs,webstorm,gitlab,redis,npm,linux)](https://skillicons.dev)
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-top: 10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-top: 10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-top: 10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-top: 10px;" />
-<img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-top: 10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-top: 10px;" />
-<img align="left" alt="Solid.js" width="26px" src="https://i.postimg.cc/26z9QxtM/79226042.png" style="padding-top: 10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-top: 10px;" />
-<img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-top: 10px;" />
-<img alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-top: 10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-top: 10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-top: 10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-top: 10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-top: 10px;" /> 
-<img align="left" alt="Tailwind" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" style="padding-top: 10px;" />
-<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-top: 10px;" />
-<img align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-top: 10px;" />
-<img align="left" alt="Mobx" width="26px" src="https://mobx.js.org/assets/mendix-logo.png" style="padding-top: 10px;" />
-<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-top: 10px;" />
+![Profile Views](https://komarev.com/ghpvc/?username=marrdg&color=7C3138&style=flat-square) 
