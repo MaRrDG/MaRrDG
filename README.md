@@ -33,13 +33,16 @@ Five years of shipping production software. React, Next.js and Svelte in front; 
 ## Tech stack
 
 **Frontend**<br />
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,tailwind,vite,electron" alt="TypeScript, JavaScript, React, Next.js, Svelte, Tailwind CSS, Vite, Electron" />
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,svelte,astro,tailwind,vite,electron" alt="TypeScript, JavaScript, HTML, CSS, React, Next.js, Svelte, Astro, Tailwind CSS, Vite, Electron" /><br />
+<sub>Also: MobX · Framer Motion · PWAs · Chrome extensions (MV3)</sub>
 
 **Backend & data**<br />
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mysql,redis,mongodb" alt="Node.js, Express, Python, PostgreSQL, MySQL, Redis, MongoDB" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mysql,redis,mongodb" alt="Node.js, Express, Python, PostgreSQL, MySQL, Redis, MongoDB" /><br />
+<sub>Also: Fastify · Drizzle ORM · MedusaJS · WebSockets · OR-Tools CP-SAT · pdf-lib · LLMs via OpenRouter · Win32 API · RAGE:MP</sub>
 
 **Infrastructure & tools**<br />
-<img src="https://skillicons.dev/icons?i=docker,nginx,linux,cloudflare,git,github,gitlab" alt="Docker, nginx, Linux, Cloudflare, Git, GitHub, GitLab" />
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,cloudflare,vercel,git,github,gitlab,npm,rollup,vscode,webstorm,postman" alt="Docker, nginx, Linux, Cloudflare, Vercel, Git, GitHub, GitLab, npm, Rollup, VS Code, WebStorm, Postman" /><br />
+<sub>Also: Turborepo · SWC · Authentik · Uptime Kuma · Portainer</sub>
 
 ---
 
